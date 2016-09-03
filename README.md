@@ -2,6 +2,8 @@
 
 RFStamp is a small form factor SAMR21G18 Radio Module Hardware project.
 
+<img src="Img\Altium3D.jpg" alt="RFStamp" style="width: 200px;"/>
+
 ## Features
 
 * SAMR21G18 MCU: Cortex M0+ CPU up to 48MHz, 256kB flash, 32kB RAM, IEEE 802.15.4 radio, capacitive touch.
