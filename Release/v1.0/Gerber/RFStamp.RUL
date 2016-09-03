@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: C:\Users\rait.raak\Desktop\rfstamp\RFStamp\RFStamp.PcbDoc
+RuleKind=Width|RuleName=Width_RF_Diff_100ohm|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=Width_RF_50ohm|Scope=Board|Minimum=12.60
+RuleKind=Clearance|RuleName=USB|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_RF|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_Touch_Y_Lines|Scope=Board|Minimum=23.62
